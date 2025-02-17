@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/drum-pad/static/css/main.31d964c1.css",
+    "main.js": "/drum-pad/static/js/main.6e1321f2.js",
+    "static/js/453.4d61f61c.chunk.js": "/drum-pad/static/js/453.4d61f61c.chunk.js",
+    "static/media/ava.mp3": "/drum-pad/static/media/ava.d9143712ffb5d40976ab.mp3",
+    "static/media/yosemite.mp3": "/drum-pad/static/media/yosemite.834e62bd2870f014cb6b.mp3",
+    "static/media/cayendo.mp3": "/drum-pad/static/media/cayendo.8c83f1eb13aae5010167.mp3",
+    "static/media/backtostrangers.mp3": "/drum-pad/static/media/backtostrangers.11c91a0fbe2f64df04db.mp3",
+    "static/media/sugarcube.mp3": "/drum-pad/static/media/sugarcube.5cbbd796dabaafcb4087.mp3",
+    "static/media/rental.mp3": "/drum-pad/static/media/rental.734ef0adc15e25a93a1e.mp3",
+    "static/media/woohoo.mp3": "/drum-pad/static/media/woohoo.5477f367bb6387907283.mp3",
+    "static/media/areyoulookingup.mp3": "/drum-pad/static/media/areyoulookingup.fb6e30998a62264a8da2.mp3",
+    "static/media/alwaysbemine.mp3": "/drum-pad/static/media/alwaysbemine.e4e8be4d7e1ae2527a8c.mp3",
+    "static/media/howyoufeel.mp3": "/drum-pad/static/media/howyoufeel.6415f7c576cbbe9a2e59.mp3",
+    "static/media/orangesoda.mp3": "/drum-pad/static/media/orangesoda.9008403270cf433fcc1d.mp3",
+    "static/media/eastcoast.mp3": "/drum-pad/static/media/eastcoast.e898cff481209d121503.mp3",
+    "static/media/elle.mp3": "/drum-pad/static/media/elle.bc748091a1cb158fcf50.mp3",
+    "static/media/solong.mp3": "/drum-pad/static/media/solong.77b14c9d33f71c5a56de.mp3",
+    "static/media/sassy.mp3": "/drum-pad/static/media/sassy.04c7da3692b0c0ad9c2a.mp3",
+    "static/media/child.mp3": "/drum-pad/static/media/child.a0a725143a1a1910dd3a.mp3",
+    "static/media/champagnecoast.mp3": "/drum-pad/static/media/champagnecoast.633bf7146dc1fcb4fc34.mp3",
+    "static/media/birdsofafeather.mp3": "/drum-pad/static/media/birdsofafeather.6bab2cb27ca537a0528a.mp3",
+    "index.html": "/drum-pad/index.html",
+    "main.31d964c1.css.map": "/drum-pad/static/css/main.31d964c1.css.map",
+    "main.6e1321f2.js.map": "/drum-pad/static/js/main.6e1321f2.js.map",
+    "453.4d61f61c.chunk.js.map": "/drum-pad/static/js/453.4d61f61c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d964c1.css",
+    "static/js/main.6e1321f2.js"
+  ]
+}
